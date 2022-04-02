@@ -942,26 +942,26 @@ labore et dolore magna aliqua.
     
     .quote
       background: url(/statics/images/parallax.jpg)
-      background-size: cover
-      background-position: center
-      background-attachment: fixed
-      background-repeat: no-repeat
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
     
     .pricing
-      background: url(/statics/images/pricing.jpg)
-      background-size: cover
-      background-position: center
-      background-attachment: fixed
-      background-repeat: no-repeat
+      background: url(/statics/images/pricing.jpg);
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
     
     .contact_us
-      background: url(/statics/images/contact_us.jpg)
-      background-size: cover
-      background-position: center
-      background-attachment: fixed
-      background-repeat: no-repeat
+      background: url(/statics/images/contact_us.jpg);
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
     
     .custom_tab
-      width: 130px
+      width: 130px;
 </style>
 

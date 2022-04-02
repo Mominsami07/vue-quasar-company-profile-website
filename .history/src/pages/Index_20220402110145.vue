@@ -843,21 +843,21 @@ labore et dolore magna aliqua.
       font-weight: 600
 
     .custom-caption
-      text-align: center
-      padding: 12px
-      color: white
+      text-align: center;
+      padding: 12px;
+      color: white;
 
     .animation_1
-      -webkit-animation: bounceIn 1s ease-in 800ms both
-      animation: bounceIn 1s ease-in 800ms both
+      -webkit-animation: bounceIn 1s ease-in 800ms both;
+      animation: bounceIn 1s ease-in 800ms both;
 
     .animation_2
-      -webkit-animation: flipInX 2s ease-in-out 800ms both
-      animation: flipInX 1s ease-in-out 800ms both
+      -webkit-animation: flipInX 2s ease-in-out 800ms both;
+      animation: flipInX 1s ease-in-out 800ms both;
 
     .animation_3
-      -webkit-animation: lightSpeedIn 1s ease-in 800ms both
-      animation: lightSpeedIn 1s ease-in 800ms both
+      -webkit-animation: lightSpeedIn 1s ease-in 800ms both;
+      animation: lightSpeedIn 1s ease-in 800ms both;
 
     .description
       padding: 10px
@@ -909,7 +909,7 @@ labore et dolore magna aliqua.
       box-shadow: 0 0 5px #000
 
     .box-shadow:hover
-      box-shadow: 0 10px 13px -6px rgba(0, 0, 0, 0.2), 0 20px 31px 3px rgba(0, 0, 0, 0.14), 0 8px 38px 7px rgba(0, 0, 0, 0.12) !important
+      box-shadow: 0 10px 13px -6px rgba(0, 0, 0, 0.2), 0 20px 31px 3px rgba(0, 0, 0, 0.14), 0 8px 38px 7px rgba(0, 0, 0, 0.12) !important;
 
     .my-card
       width: 350px
@@ -941,27 +941,27 @@ labore et dolore magna aliqua.
       font-style: italic
     
     .quote
-      background: url(/statics/images/parallax.jpg)
-      background-size: cover
-      background-position: center
-      background-attachment: fixed
-      background-repeat: no-repeat
+      background: url(/statics/images/parallax.jpg);
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
     
     .pricing
-      background: url(/statics/images/pricing.jpg)
-      background-size: cover
-      background-position: center
-      background-attachment: fixed
-      background-repeat: no-repeat
+      background: url(/statics/images/pricing.jpg);
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
     
     .contact_us
-      background: url(/statics/images/contact_us.jpg)
-      background-size: cover
-      background-position: center
-      background-attachment: fixed
-      background-repeat: no-repeat
+      background: url(/statics/images/contact_us.jpg);
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
     
     .custom_tab
-      width: 130px
+      width: 130px;
 </style>
 
